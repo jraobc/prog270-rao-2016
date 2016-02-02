@@ -2,4 +2,5 @@
 * [Goats.html](Goats.html)
 * [Prog270TestRao.html](Prog270TestRao.html)
 * [Stream.html](Stream.html)
+* [WalkingMapRao.html](WalkingMapRao.html)
 * [master-list.html](master-list.html)
