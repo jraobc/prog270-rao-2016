@@ -5,7 +5,7 @@ The stuffed board is placed into a wave soldering machine. the machine moves the
 The board then passes over preheaters, then over a wave of molten solder:
 
 
-<img src="http://www.indium.com/blog/media/images/0813/10_large.jpg" alt="solder wave">
+<img class="w100" src="http://www.indium.com/blog/media/images/0813/10_large.jpg" alt="solder wave">
 
-~ Copyright Indium corp. ~
+<sub>Image copyright Indium corp.</sub>
 
