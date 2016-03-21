@@ -14,7 +14,5 @@ Common lead-free alloys include SAC (tin-silver-copper), indium rich alloys, and
 
 The paste is forced through a stencil and onto the PCB using a squeegee. 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Solder_Paste_Printed_on_a_PCB.jpg/440px-Solder_Paste_Printed_on_a_PCB.jpg" alt="solder on pcb">
-
-
-<sub>By Ossewa - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19438242</sub>
+<img class="img-responsive" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Solder_Paste_Printed_on_a_PCB.jpg/440px-Solder_Paste_Printed_on_a_PCB.jpg" alt="solder on pcb">
+<p><sub>By Ossewa - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19438242</sub></p>
