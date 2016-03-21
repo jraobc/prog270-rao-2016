@@ -18,7 +18,7 @@ This short walk takes you thorough the botanical gardens, across the locks, and 
 
 ## Greenlake Community center to Woodland Park Zoo
 
-This walk starts at the community center, where you can join a pickup basketball or soccer game. It then follows the lake trail, through Woodland Park, and ends at the zoo. The zoo entry cost is optional.
+This walk starts at the community center, where you can join a pickup basketball or soccer game. It then follows the lake trail, through Woodland Park, and ends at the zoo. The zoo entry (and associate fee) is optional.
 
 [Greenlake and Zoo](https://goo.gl/maps/7hPes34CWX92)
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2686.8500277956664!2d-122.348347350166!3d47.66790977452108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m3!3m2!1d47.679889599999996!2d-122.3277626!4m3!3m2!1d47.6704222!2d-122.3509529!4m3!3m2!1d47.6668034!2d-122.35108939999999!5e0!3m2!1sen!2sus!4v1454372093385" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>

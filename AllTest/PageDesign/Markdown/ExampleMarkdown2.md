@@ -11,4 +11,4 @@ This is an example of `inline preformatted text.`
 > I don't really know what to use them for.
 
 Here is an image of the Orion nebula:
-![The Orion Nebula](https://upload.wikimedia.org/wikipedia/commons/3/3c/The_Orion_Nebula_M42.jpg)
+<img alt="The Orion Nebula" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/The_Orion_Nebula_M42.jpg" class="w100">

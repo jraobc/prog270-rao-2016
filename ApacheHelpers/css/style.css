@@ -1,7 +1,13 @@
-img.640w {
-   width: 400px;
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+img.w100 {
+  width: 100%; 
 }
 
 img.twenty-five-percent {
-   width: 25%;
+  width: 25%;
 }
+

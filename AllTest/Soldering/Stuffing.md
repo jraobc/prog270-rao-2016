@@ -8,4 +8,6 @@ A technician places through-hole components into the holes of the board. The tec
 
 Polarized capacitors, such as those pictured above, may explode if installed backwards.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XgKLIvEIl4U" frameborder="0" allowfullscreen></iframe>
+
 

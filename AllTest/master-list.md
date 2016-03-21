@@ -1,3 +1,6 @@
 * [Summary.html](Summary.html)
-* [MoreFiles/Summary.html](MoreFiles/Summary.html)
-* [Assignments/Summary.html](Assignments/Summary.html)
+* [Soldering/Summary.html](Soldering/Summary.html)
+* [PageDesign/Markdown/Summary.html](PageDesign/Markdown/Summary.html)
+* [PageDesign/ImageHandling/Summary.html](PageDesign/ImageHandling/Summary.html)
+* [PageDesign/Database-Mapping/Summary.html](PageDesign/Database-Mapping/Summary.html)
+* [PageDesign/Bootstrap/Summary.html](PageDesign/Bootstrap/Summary.html)
