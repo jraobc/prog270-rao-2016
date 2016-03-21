@@ -1,5 +1,7 @@
 # J Rao's Prog 270 site
 
+<img src="/images/jgoat.jpg" class="img-responsive" alt="Me feeding a goat">
+
 This site demonstrates skills I learned in Charle Calvert's Prog 270 course.
 
 
